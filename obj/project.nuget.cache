@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xV9B/5pv2VxT+i0+9/iHG5q3acnO8V6chvN8CU1J+boAwMPjIldDhyv/mGHWSgenc1KCHmr4kZQgbvncv5FfqQ==",
+  "dgSpecHash": "8KI0Zf/5kftpiX8EqRqlipzRJ3R+4Kln6kWiVEwjU64EbcI9lf6QkMbtfESDbyrgGQK6eN9c2IkUgCBqctydLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\arish\\Desktop\\projects\\dotnet-sqlite\\dotnet-rpg.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\arish\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
-    "C:\\Users\\arish\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\arish\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\arish\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\arish\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\arish\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\arish\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\arish\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\arish\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

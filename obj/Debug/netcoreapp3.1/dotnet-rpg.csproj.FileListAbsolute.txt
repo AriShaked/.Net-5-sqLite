@@ -64,7 +64,6 @@ C:\Users\arish\Desktop\projects\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.Mv
 C:\Users\arish\Desktop\projects\dotnet-rpg\obj\Debug\netcoreapp3.1\dotnet-rpg.csprojAssemblyReference.cache
 C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\dotnet-rpg.exe
 C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\dotnet-rpg.deps.json
 C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\dotnet-rpg.runtimeconfig.json
@@ -149,3 +148,6 @@ C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\runtimes\w
 C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\arish\Desktop\projects\dotnet-sqlite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\arish\Desktop\projects\dotnet-sqlite\obj\Debug\netcoreapp3.1\dotnet-rpg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arish\Desktop\projects\dotnet-sqlite\obj\Debug\netcoreapp3.1\dotnet-rpg.csproj.CoreCompileInputs.cache
+C:\Users\arish\Desktop\projects\dotnet-sqlite\obj\Debug\netcoreapp3.1\scopedcss\bundle\dotnet-rpg.styles.css
+C:\Users\arish\Desktop\projects\dotnet-sqlite\obj\Debug\netcoreapp3.1\dotnet-rpg.genruntimeconfig.cache
